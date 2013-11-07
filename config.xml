@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/TizenJqmAngular" version="1.0.0" viewmodes="maximized">
+    <access origin="http://googleapis.com" subdomains="true"></access>
+    <tizen:application id="awGtm0pMzq.PocJQMAngular" package="awGtm0pMzq" required_version="2.2"/>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>TizenJqmAngular</name>
+    <tizen:setting screen-orientation="portrait" context-menu="enable" background-support="disable" encryption="disable" install-location="auto"/>
+</widget>
